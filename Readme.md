@@ -19,7 +19,7 @@ Soyez libres de faire vos forks et pull requests.
 
 Nous avons un discord lié à une multi-gaming qui héberge des serveurs de jeux. Venez jeter un coup d'œil, nous sommes friands de nouveaux joueurs et de grands moments de plaisir sur différents jeux. Les canaux et outils nécessaires sont en cours de conception, des idées ?? Je vous attends :P
 
-Assez bavardé :P Je vais préparer le projet, à bientôt sur [==> Discord](discord.gg/uxypBReHPp) ou dans les ondes xD
+Assez bavardé :P Je vais préparer le projet, à bientôt sur [==> Discord](https://discord.gg/uxypBReHPp) ou dans les ondes xD
 
 
 
